@@ -1,6 +1,8 @@
-# Lara4strap
+# Learn Laravel Multilanguage Configuration
 
-Template source code cơ bản cho hướng dẫn học lập trình Laravel 4 trên http://laptrinh.io
+Đây là source code của bài hướng dẫn lập trình laravel 4 với cấu hình multilanguage lấy từ database.
+
+Bài hướng dẫn: http://laptrinh.io/2014/12/16/xu-ly-da-ngon-ngu-trong-laravel-voi-du-lieu-lay-tu-database/
 
 
 ## Hướng dẫn
@@ -8,11 +10,9 @@ Template source code cơ bản cho hướng dẫn học lập trình Laravel 4 t
 Các bạn sử dụng `Composer` để tiến hành cài đặt project.
 
 ```
-$ composer create-project laptrinhio/lara4strap TEN-PROJECT-CUA-BAN dev-master
+$ composer update
 ```
 
-Sau đó các bạn sẽ thấy thư mục project của ban được cấu hình sẵn. 
-Tại đây bạn có thể tiến hành sử dụng và tiến hành các bài lập trình trên http://laptrinh.io
 
 ## Liên hệ
 
